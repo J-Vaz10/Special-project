@@ -1,0 +1,1 @@
+// Este archivo ha sido migrado a Java. Consulta MainActivity.java
